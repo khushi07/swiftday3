@@ -10,3 +10,8 @@ import Foundation
 
 print("Hello, World!")
 
+func hello()
+{
+    print("hello")
+}
+hello()
